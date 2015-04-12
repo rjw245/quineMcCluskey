@@ -2,7 +2,6 @@ __author__ = 'Riley'
 
 from NCube import NCube
 import itertools
-import myitertools
 import operator
 
 def solve(function):
